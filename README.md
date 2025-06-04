@@ -3,6 +3,8 @@
 
 This project demonstrates how to fine-tune the [`unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit`](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit) model using the [`vicgalle/alpaca-gpt4`](https://huggingface.co/datasets/vicgalle/alpaca-gpt4) dataset with LoRA and Unsloth's efficient training interface.
 
+The fine tuned model file is on my HuggingFace : https://huggingface.co/junaid17/finetuned-DeepSeek_r1/tree/main
+
 ---
 
 ## 🚀 Model & Tokenizer Setup
